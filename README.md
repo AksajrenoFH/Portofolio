@@ -2,6 +2,8 @@
 
 Sebuah website yang menunjukkan keahlian, portofolio, dan tentang saya di website Portofolio ini
 
+A website that give my skill, portofolio, and about me in this Website
+
 
 ---
 
@@ -11,6 +13,13 @@ Sebuah website yang menunjukkan keahlian, portofolio, dan tentang saya di websit
 - ✅ Tombol kembali keatas
 - ✅ Terdapat Swiper.js
 - ✅ Dan lain lain
+
+## 🔥 Key Features
+
+- ✅ Responsive Design
+- ✅ Going to Up button
+- ✅ Have a Swiper.JS
+- ✅ And many more
 
 ---
 
