@@ -33,7 +33,9 @@ Berikut preview tampilan dari website-nya:
 
 ### 2. Halaman Project
 
-![image](https://github.com/user-attachments/assets/a16d14ad-5ca1-410f-92a4-66c5c6b05c1d)
+<img width="1358" height="642" alt="image" src="https://github.com/user-attachments/assets/4e5e0cc7-3092-4f5e-b7b0-ff469ea0f227" />
+
+
 
 ---
 
